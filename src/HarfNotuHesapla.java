@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class HarfNotuHesapla {
     public static void main(String[] args) {
 
-        System.out.println("Hello world!");
         Scanner i = new Scanner(System.in);
         System.out.println("Lutfen isminizi giriniz.");
         String isim = i.nextLine();
